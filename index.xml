@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jerry Huang</title>
-    <link>https://jerryhuang3.github.io/</link>
+    <link>https://jerryhuang.ca/</link>
     <description>Recent content on Jerry Huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Sep 2019 17:59:38 -0400</lastBuildDate>
     
-	<atom:link href="https://jerryhuang3.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jerryhuang.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Walmark</title>
-      <link>https://jerryhuang3.github.io/projects/walmark/</link>
+      <link>https://jerryhuang.ca/projects/walmark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/walmark/</guid>
+      <guid>https://jerryhuang.ca/projects/walmark/</guid>
       <description>https://walmark.herokuapp.com  Walmark is a user curated, resource wall that can help users organize and bookmark links.
 Built with Javascript, JQuery, Express, and Postgres.</description>
     </item>
     
     <item>
       <title>Buffering</title>
-      <link>https://jerryhuang3.github.io/projects/buffering/</link>
+      <link>https://jerryhuang.ca/projects/buffering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/buffering/</guid>
+      <guid>https://jerryhuang.ca/projects/buffering/</guid>
       <description>https://github.com/jerryhuang3/buffering  Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
 Tech Stack includes React with Semantic UI, Express, and Postgres 👍</description>
     </item>
     
     <item>
       <title>tinyChatr</title>
-      <link>https://jerryhuang3.github.io/projects/tinychatr/</link>
+      <link>https://jerryhuang.ca/projects/tinychatr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/tinychatr/</guid>
+      <guid>https://jerryhuang.ca/projects/tinychatr/</guid>
       <description>https://tinychatr.herokuapp.com  Web application built with Node, React, and Webpack that enables users to chat and send images to each other.</description>
     </item>
     
     <item>
       <title>tinyJungle</title>
-      <link>https://jerryhuang3.github.io/projects/tinyjungle/</link>
+      <link>https://jerryhuang.ca/projects/tinyjungle/</link>
       <pubDate>Tue, 03 Sep 2019 17:59:23 -0400</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/tinyjungle/</guid>
+      <guid>https://jerryhuang.ca/projects/tinyjungle/</guid>
       <description>https://github.com/jerryhuang3/tinyjungle  E-Commerce application using Stripe for payments and built with Ruby on Rails.</description>
     </item>
     
     <item>
       <title>tinyTweeter</title>
-      <link>https://jerryhuang3.github.io/projects/tinytweeter/</link>
+      <link>https://jerryhuang.ca/projects/tinytweeter/</link>
       <pubDate>Tue, 03 Sep 2019 17:59:29 -0400</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/tinytweeter/</guid>
+      <guid>https://jerryhuang.ca/projects/tinytweeter/</guid>
       <description>https://tinytweeter.herokuapp.com  Single page application Twitter clone built with Node, Express, and MongoDB</description>
     </item>
     
     <item>
       <title>tinyApp</title>
-      <link>https://jerryhuang3.github.io/projects/tinyapp/</link>
+      <link>https://jerryhuang.ca/projects/tinyapp/</link>
       <pubDate>Tue, 03 Sep 2019 17:59:38 -0400</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/tinyapp/</guid>
+      <guid>https://jerryhuang.ca/projects/tinyapp/</guid>
       <description>https://lighthouselabs-tinyapp.herokuapp.com  Web application built with Node and Express that allows users to shorten long URLs</description>
     </item>
     
