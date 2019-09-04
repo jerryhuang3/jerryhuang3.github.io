@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/walmark/</guid>
-      <description>Sometimes I take pictures Walmark is a user curated, resource wall that can help users organize and bookmark links.
+      <description>https://walmark.herokuapp.com  Walmark is a user curated, resource wall that can help users organize and bookmark links.
 Built with Javascript, JQuery, Express, and Postgres.</description>
     </item>
     
@@ -27,7 +27,7 @@ Built with Javascript, JQuery, Express, and Postgres.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/buffering/</guid>
-      <description>Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
+      <description>https://github.com/jerryhuang3/buffering  Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
 Tech Stack includes React with Semantic UI, Express, and Postgres 👍</description>
     </item>
     
@@ -37,8 +37,7 @@ Tech Stack includes React with Semantic UI, Express, and Postgres 👍</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/tinychatr/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <description>https://tinychatr.herokuapp.com  Web application built with Node, React, and Webpack that enables users to chat and send images to each other.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon fro
       <pubDate>Tue, 03 Sep 2019 17:59:23 -0400</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/tinyjungle/</guid>
-      <description></description>
+      <description>https://github.com/jerryhuang3/tinyjungle  E-Commerce application using Stripe for payments and built with Ruby on Rails.</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon fro
       <pubDate>Tue, 03 Sep 2019 17:59:29 -0400</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/tinytweeter/</guid>
-      <description></description>
+      <description>https://tinytweeter.herokuapp.com  Single page application Twitter clone built with Node, Express, and MongoDB</description>
     </item>
     
     <item>
@@ -65,7 +64,7 @@ To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon fro
       <pubDate>Tue, 03 Sep 2019 17:59:38 -0400</pubDate>
       
       <guid>https://jerryhuang3.github.io/projects/tinyapp/</guid>
-      <description></description>
+      <description>https://lighthouselabs-tinyapp.herokuapp.com  Web application built with Node and Express that allows users to shorten long URLs</description>
     </item>
     
   </channel>
