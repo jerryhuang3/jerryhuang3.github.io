@@ -6,6 +6,7 @@
     <description>Recent content in Projects on Jerry Huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2019 17:59:38 -0400</lastBuildDate>
     
 	<atom:link href="https://jerryhuang3.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,13 +32,40 @@ Tech Stack includes React with Semantic UI, Express, and Postgres 👍</descript
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://jerryhuang3.github.io/projects/writing/</link>
+      <title>tinyChatr</title>
+      <link>https://jerryhuang3.github.io/projects/tinychatr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerryhuang3.github.io/projects/writing/</guid>
+      <guid>https://jerryhuang3.github.io/projects/tinychatr/</guid>
       <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
 To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+    <item>
+      <title>tinyJungle</title>
+      <link>https://jerryhuang3.github.io/projects/tinyjungle/</link>
+      <pubDate>Tue, 03 Sep 2019 17:59:23 -0400</pubDate>
+      
+      <guid>https://jerryhuang3.github.io/projects/tinyjungle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinyTweeter</title>
+      <link>https://jerryhuang3.github.io/projects/tinytweeter/</link>
+      <pubDate>Tue, 03 Sep 2019 17:59:29 -0400</pubDate>
+      
+      <guid>https://jerryhuang3.github.io/projects/tinytweeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinyApp</title>
+      <link>https://jerryhuang3.github.io/projects/tinyapp/</link>
+      <pubDate>Tue, 03 Sep 2019 17:59:38 -0400</pubDate>
+      
+      <guid>https://jerryhuang3.github.io/projects/tinyapp/</guid>
+      <description></description>
     </item>
     
   </channel>
