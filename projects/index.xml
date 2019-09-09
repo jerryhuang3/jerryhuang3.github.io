@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Shlack</title>
-      <link>https://jerryhuang.ca/projects/shlack/</link>
-      <pubDate>Wed, 04 Sep 2019 02:30:14 -0400</pubDate>
+      <title>Buffering</title>
+      <link>https://jerryhuang.ca/projects/buffering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerryhuang.ca/projects/shlack/</guid>
-      <description>https://github.com/jerryhuang3/shlack  High performance mini slack clone using Mike North&amp;rsquo;s Ember Octane Fundementals course from Frontend Masters. This is a Progressive Web App (PWA) that is built using Ember routes and compenents. Glimmer components, tracked properties, actions, and modifiers are used. Server-side rendering and service workers enabled.</description>
+      <guid>https://jerryhuang.ca/projects/buffering/</guid>
+      <description>https://github.com/jerryhuang3/buffering  Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
+Tech Stack includes React with Semantic UI, Express, and Postgres 👍</description>
     </item>
     
     <item>
@@ -41,13 +42,12 @@ Made with React, Parcel, and Reach Router.</description>
     </item>
     
     <item>
-      <title>Buffering</title>
-      <link>https://jerryhuang.ca/projects/buffering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Shlack</title>
+      <link>https://jerryhuang.ca/projects/shlack/</link>
+      <pubDate>Wed, 04 Sep 2019 02:30:14 -0400</pubDate>
       
-      <guid>https://jerryhuang.ca/projects/buffering/</guid>
-      <description>https://github.com/jerryhuang3/buffering  Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
-Tech Stack includes React with Semantic UI, Express, and Postgres 👍</description>
+      <guid>https://jerryhuang.ca/projects/shlack/</guid>
+      <description>https://github.com/jerryhuang3/shlack  High performance mini slack clone using Mike North&amp;rsquo;s Ember Octane Fundementals course from Frontend Masters. This is a Progressive Web App (PWA) that is built using Ember routes and compenents. Glimmer components, tracked properties, actions, and modifiers are used. Server-side rendering and service workers enabled.</description>
     </item>
     
     <item>
