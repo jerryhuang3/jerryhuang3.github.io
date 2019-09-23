@@ -6,7 +6,7 @@
     <description>Recent content on Jerry Huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2019 02:30:14 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 02:28:39 -0400</lastBuildDate>
     
 	<atom:link href="https://jerryhuang.ca/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,17 +37,8 @@ Built with Javascript, JQuery, Express, and Postgres.</description>
       <pubDate>Wed, 04 Sep 2019 02:28:39 -0400</pubDate>
       
       <guid>https://jerryhuang.ca/projects/petfinder/</guid>
-      <description>https://petfinder.netlify.com  Simple pet adoption app created with Brian Holt&amp;rsquo;s Complete Intro to React, v5 course on Frontend Masters. The course teaches modern React including hooks, effects, context, and portals.
+      <description>https://petfinder.netlify.com  Simple frontend pet adoption app utilizing React hooks, effects, context, and portals.
 Made with React, Parcel, and Reach Router.</description>
-    </item>
-    
-    <item>
-      <title>Shlack</title>
-      <link>https://jerryhuang.ca/projects/shlack/</link>
-      <pubDate>Wed, 04 Sep 2019 02:30:14 -0400</pubDate>
-      
-      <guid>https://jerryhuang.ca/projects/shlack/</guid>
-      <description>https://github.com/jerryhuang3/shlack  High performance mini slack clone using Mike North&amp;rsquo;s Ember Octane Fundementals course from Frontend Masters. This is a Progressive Web App (PWA) that is built using Ember routes and compenents. Glimmer components, tracked properties, actions, and modifiers are used. Server-side rendering and service workers enabled.</description>
     </item>
     
     <item>
