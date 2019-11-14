@@ -17,8 +17,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang.ca/projects/buffering/</guid>
-      <description>https://github.com/jerryhuang3/buffering  Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data .💪
+      <description>Code - https://github.com/jerryhuang3/buffering Live - https://buffrng.herokuapp.com/ Chrome Extension ↗   Fitness tracking application with Chrome extension that degrades user internet experience if fitness goals are not met. Google Oauth integration for account creation and Google Fit API for user&amp;rsquo;s step count data. 💪
 Tech Stack includes React with Semantic UI, Express, and Postgres 👍</description>
+    </item>
+    
+    <item>
+      <title>ESPN Fantasy Basketball Tracker</title>
+      <link>https://jerryhuang.ca/projects/fantasybasketball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerryhuang.ca/projects/fantasybasketball/</guid>
+      <description>Code - https://github.com/jerryhuang3/espn-fantasy-basketball-tracker Live - https://ourleague.herokuapp.com/  Fun app for my fantasy league. Made with React and Express using ESPN API. WIP</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@ Tech Stack includes React with Semantic UI, Express, and Postgres 👍</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang.ca/projects/walmark/</guid>
-      <description>https://walmark.herokuapp.com  Walmark is a user curated, resource wall that can help users organize and bookmark links.
+      <description>Code - https://github.com/jerryhuang3/walmark Live - https://walmark.herokuapp.com  Walmark is a user curated, resource wall that can help users organize and bookmark links.
 Built with Javascript, JQuery, Express, and Postgres.</description>
     </item>
     
@@ -37,7 +46,7 @@ Built with Javascript, JQuery, Express, and Postgres.</description>
       <pubDate>Wed, 04 Sep 2019 02:28:39 -0400</pubDate>
       
       <guid>https://jerryhuang.ca/projects/petfinder/</guid>
-      <description>https://petfinder.netlify.com  Simple frontend pet adoption app utilizing React hooks, effects, context, and portals.
+      <description>Live - https://petfinder.netlify.com  Simple frontend pet adoption app utilizing React hooks, effects, context, and portals.
 Made with React, Parcel, and Reach Router.</description>
     </item>
     
@@ -47,7 +56,7 @@ Made with React, Parcel, and Reach Router.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerryhuang.ca/projects/tinychatr/</guid>
-      <description>https://tinychatr.herokuapp.com  Web application built with Node, React, and Webpack that enables users to chat and send images to each other.</description>
+      <description>Code - https://github.com/jerryhuang3/tinychatr Live - https://tinychatr.herokuapp.com  Web application built with Node, React, and Webpack that enables users to chat and send images to each other.</description>
     </item>
     
     <item>
@@ -56,7 +65,7 @@ Made with React, Parcel, and Reach Router.</description>
       <pubDate>Tue, 03 Sep 2019 17:59:23 -0400</pubDate>
       
       <guid>https://jerryhuang.ca/projects/tinyjungle/</guid>
-      <description>https://github.com/jerryhuang3/tinyjungle  E-Commerce application using Stripe for payments and built with Ruby on Rails.</description>
+      <description>Code - https://github.com/jerryhuang3/tinyjungle  E-Commerce application using Stripe for payments and built with Ruby on Rails.</description>
     </item>
     
     <item>
@@ -65,7 +74,7 @@ Made with React, Parcel, and Reach Router.</description>
       <pubDate>Tue, 03 Sep 2019 17:59:29 -0400</pubDate>
       
       <guid>https://jerryhuang.ca/projects/tinytweeter/</guid>
-      <description>https://tinytweeter.herokuapp.com  Single page application Twitter clone built with Node, Express, and MongoDB</description>
+      <description>Code - https://github.com/jerryhuang3/tinytweeter Live - https://tinytweeter.herokuapp.com  Single page application Twitter clone built with Node, Express, and MongoDB</description>
     </item>
     
     <item>
@@ -74,7 +83,7 @@ Made with React, Parcel, and Reach Router.</description>
       <pubDate>Tue, 03 Sep 2019 17:59:38 -0400</pubDate>
       
       <guid>https://jerryhuang.ca/projects/tinyapp/</guid>
-      <description>https://lighthouselabs-tinyapp.herokuapp.com  Web application built with Node and Express that allows users to shorten long URLs</description>
+      <description>Code - https://github.com/jerryhuang3/tinyapp Live - https://lighthouselabs-tinyapp.herokuapp.com  Web application built with Node and Express that allows users to shorten long URLs</description>
     </item>
     
   </channel>
